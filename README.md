@@ -19,4 +19,12 @@
       <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
     </a>
  </p>
+  <h2>Meu Trabalho</h2>
+ <p>Aqui estão alguns dos projetos pessoais que trabalhei:</p>
+ <ul>
+   <li><a href="https://github.com/Phsouzaro/Camel-Enderecos">API de consulta de CEP com Integração</a></li>
+   <li><a href="https://github.com/Phsouzaro/apache-camel-crud">API CRUD com Apache Camel e integração com banco de dados</a></li>
+   <li><a href="https://github.com/Phsouzaro/cadastro-produtos">API para cadastro de produtos</a></li>
+ </ul>
+</div>
 </div>
