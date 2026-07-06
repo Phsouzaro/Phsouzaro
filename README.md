@@ -1,164 +1,219 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Pedro Henrique - Software Engineer" width="100%">
+  <img src="./assets/banner.png" alt="Pedro Henrique - Software Engineer" width="100%" />
 </p>
 
 <div align="center">
 
 ### Software Engineer
 
-Building scalable systems.  
-Exploring Artificial Intelligence.
+**Backend • Artificial Intelligence • System Design**
+
+Building scalable systems. Exploring intelligent software. Engineering in progress.
+
+<br/>
+
+<a href="#about">About</a> ·
+<a href="#focus">Focus</a> ·
+<a href="#stack">Stack</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#notes">Notes</a> ·
+<a href="#roadmap">Roadmap</a> ·
+<a href="#contact">Contact</a>
 
 </div>
 
----
-
-<p align="center">
-
-<a href="#atlasabout">atlas://about</a> •
-<a href="#atlasfocus">atlas://focus</a> •
-<a href="#atlasstack">atlas://stack</a> •
-<a href="#atlasprojects">atlas://projects</a> •
-<a href="#atlasnotes">atlas://notes</a> •
-<a href="#atlasstats">atlas://stats</a> •
-<a href="#atlasroadmap">atlas://roadmap</a> •
-<a href="#atlascontact">atlas://contact</a>
-
-</p>
+<br/>
 
 ---
 
-# atlas://about
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<h2 id="about">atlas/about</h2>
 
 ```bash
 pedro@atlas:~$ whoami
-
-Software Engineer
-Backend Engineer
-AI Enthusiast
-System Design Student
 ```
 
-I'm a Software Engineer from Brazil 🇧🇷 currently building backend systems with **Java** and **Spring Boot**.
+I'm a Software Engineer from Brazil 🇧🇷, currently building backend systems with **Java** and **Spring Boot**.
 
-I enjoy understanding how software works internally, designing scalable systems and exploring how Artificial Intelligence can solve real-world problems.
+I'm driven by curiosity and by the desire to understand how complex software works internally.
 
-Every repository in this GitHub is part of my long-term engineering journey.
+My main interests are **software architecture**, **distributed systems**, **Artificial Intelligence** and **System Design**.
 
----
+Every repository here is part of my long-term engineering journey.
 
-# atlas://focus
+</td>
+
+<td width="45%" valign="top">
+
+<h2 id="focus">atlas/focus</h2>
 
 ```bash
 pedro@atlas:~/focus$ ls
+```
 
+```text
 system-design/
 artificial-intelligence/
 distributed-systems/
 software-architecture/
 cloud/
+production-backend/
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-# atlas://stack
+<br/>
 
-```text
-core/
+<h2 id="stack">atlas/stack</h2>
 
-├── Java
-├── Spring Boot
-├── SQL
-├── Docker
-└── Git
+<table>
+<tr>
+<td width="25%" valign="top">
 
-backend/
+### Core
 
-├── Spring Security
-├── Spring Data JPA
-├── Hibernate
-└── Apache Camel
+- Java
+- Spring Boot
+- SQL
+- Docker
+- Git
 
-database/
+</td>
 
-├── PostgreSQL
-└── MySQL
+<td width="25%" valign="top">
 
-exploring/
+### Backend
 
-├── AWS
-├── Kubernetes
-├── AI Engineering
-├── RAG
-└── LLMs
-```
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- Apache Camel
+- REST APIs
 
-<br>
+</td>
 
-<p align="left">
+<td width="25%" valign="top">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Camel-D22128?style=flat-square&logo=apache&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+### Database
 
+- PostgreSQL
+- MySQL
+- Relational Modeling
+- Transactions
+- Query Optimization
+
+</td>
+
+<td width="25%" valign="top">
+
+### Exploring
+
+- AWS
+- Kubernetes
+- AI Engineering
+- LLMs
+- RAG
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
+<br/>
+
 ---
 
-# atlas://projects
+<br/>
 
-```text
-backend-labs/
-```
+<h2 id="projects">atlas/projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### backend-labs
 
 Production-ready backend applications built with Java and Spring Boot.
 
-> Coming soon.
+**Focus:** APIs, authentication, databases, tests, Docker and clean architecture.
 
----
+_Status: under development._
 
-```text
-system-design-lab/
-```
+</td>
+
+<td width="50%" valign="top">
+
+### ai-lab
+
+Experiments with Artificial Intelligence, LLMs, RAG, embeddings and AI Agents.
+
+**Focus:** practical AI engineering and intelligent applications.
+
+_Status: under development._
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### system-design-lab
 
 Architecture studies, scalability experiments and distributed systems.
 
-> Coming soon.
+**Focus:** trade-offs, diagrams, patterns and real-world system design.
 
----
+_Status: under development._
 
-```text
-ai-lab/
-```
+</td>
 
-Experiments with Artificial Intelligence, LLMs, RAG and AI Agents.
+<td width="50%" valign="top">
 
-> Coming soon.
-
----
-
-```text
-engineering-notes/
-```
+### engineering-notes
 
 My public knowledge base about software engineering.
 
-> Coming soon.
+**Focus:** notes, diagrams, fundamentals and long-term learning.
+
+_Status: under development._
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-# atlas://notes
+<br/>
+
+<h2 id="notes">atlas/notes</h2>
 
 ```bash
 pedro@atlas:~/engineering-notes$ tree
+```
 
+```text
 engineering-notes
 
 ├── artificial-intelligence
@@ -171,64 +226,106 @@ engineering-notes
 └── system-design
 ```
 
+<br/>
+
 ---
 
-# atlas://stats
+<br/>
+
+<h2 id="stats">atlas/stats</h2>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phsouzaro&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phsouzaro&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsouzaro&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsouzaro&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+<br/>
+
 ---
 
-# atlas://roadmap
+<br/>
 
-```text
+<h2 id="roadmap">atlas/roadmap</h2>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### Now
+
+Backend Engineering  
+System Design  
+AI Fundamentals
+
+</td>
+
+<td width="20%" align="center">
+
+### Next
+
+Distributed Systems  
+Cloud  
+Architecture Labs
+
+</td>
+
+<td width="20%" align="center">
+
+### Building
+
+AI Agents  
+RAG Apps  
+Production APIs
+
+</td>
+
+<td width="20%" align="center">
+
+### Future
+
+Kubernetes  
+AWS  
+Open Source
+
+</td>
+
+<td width="20%" align="center">
+
+### Goal
+
+International  
 Software Engineer
 
-│
+</td>
+</tr>
+</table>
 
-├── Backend Engineering
-
-│
-
-├── Artificial Intelligence
-
-│
-
-├── Cloud Computing
-
-│
-
-├── Distributed Systems
-
-│
-
-└── International Career
-```
+<br/>
 
 ---
 
-# atlas://contact
+<br/>
+
+<h2 id="contact">atlas/contact</h2>
 
 ```bash
-pedro@atlas:~/contact
-
-linkedin
-email
+pedro@atlas:~/contact$ open connections
 ```
 
-💼 LinkedIn
+<p>
+  <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 
-https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/
+  <a href="mailto:phsouzaro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-📧
-
-phsouzaro@gmail.com
+<br/>
 
 ---
 
@@ -239,7 +336,7 @@ Project Atlas
 
 Engineering in progress...
 
-v1.0
+v1.5
 ```
 
 > Great software is built by engineers who never stop learning.
