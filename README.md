@@ -2,16 +2,6 @@
   <img src="./assets/banner.png" alt="Pedro Henrique - Software Engineer" width="100%"/>
 </p>
 
-<div align="center">
-
-### Software Engineer
-
-**Backend • Artificial Intelligence • System Design**
-
-Building scalable systems. Exploring intelligent software. Engineering in progress.
-
-<br/>
-
 [`📂 About`](#about) &nbsp;·&nbsp; [`🎯 Focus`](#focus) &nbsp;·&nbsp; [`🛠️
 Stack`](#stack) &nbsp;·&nbsp; [`🚀 Projects`](#projects) &nbsp;·&nbsp; [`📝
 Notes`](#notes) &nbsp;·&nbsp; [`🗺️ Roadmap`](#roadmap) &nbsp;·&nbsp; [`📞
@@ -38,7 +28,7 @@ Contact`](#contact)
    "location": "Brazil 🇧🇷",
    "role": "Software Engineer",
    "specialties": ["Backend", "AI", "System Design"],
-   "focus": "Java & Spring Boot ecosystem"
+   "focus": "Software Engineering"
  }
  ```
 
@@ -88,7 +78,7 @@ works internally.
  │ Integrations    │ Spring Data JPA • Hibernate • Apache Camel • REST  │
  │ Databases       │ PostgreSQL • MySQL • Relational Design • Tuning    │
  │ Infrastructure  │ Docker • Git • Linux • AWS • Kubernetes            │
- │ Exploring AI    │ LLMs • RAG (Retrieval) • AI Agents • VectorDBs     │
+ │ AI Engineering  │ LLMs • RAG (Retrieval) • AI Agents • VectorDBs     │
  └─────────────────┴────────────────────────────────────────────────────┘
  ```
 
@@ -105,7 +95,7 @@ works internally.
  <td width="50%" valign="top">
 
  ### 🧪 [backend-labs](https://github.com/Phsouzaro/backend-labs)
- > Production-ready backend applications built with Java & Spring Boot.
+ > Planning backend applications built with Java & Spring Boot.
 
  - 🎯 **Focus:** Secure REST APIs, OAuth2, Database migrations, Unit/Integration tests,
 Clean Architecture.
@@ -187,17 +177,17 @@ insights.
 
  ```bash
  pedro@atlas:~$ atlas --roadmap
- [●] PHASE 1: Current Focus & Building 🚀
+ [●] SPRINT 1: Current Focus & Building 🚀
      ├── Mastering production-ready Backend Systems (Java/Spring Boot)
      ├── High-Throughput APIs, security configurations, and SQL tuning
      └── AI Engineering fundamentals (RAG integrations, agentic workflows)
 
- [○] PHASE 2: Tactical Expansion 🗺️
+ [○] SPRINT 2: Tactical Expansion 🗺️
      ├── Deepening knowledge in Distributed Systems & Event-Driven architectures
      ├── Exploring Cloud solutions and container orchestration (AWS, Kubernetes)
      └── Advanced Software Architecture patterns (CQRS, Event Sourcing)
 
- [○] PHASE 3: Long-term Horizon & Goal 🎯
+ [○] SPRINT 3: Long-term Horizon & Goal 🎯
      ├── Production deployment of AI-augmented cloud architectures
      ├── Scalable open-source contributions
      └── Goal: Global Impact as an International Software Engineer 🌐
