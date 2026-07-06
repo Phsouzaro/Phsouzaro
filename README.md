@@ -1,55 +1,71 @@
 <div align="center">
 
-# Hi, I'm Pedro Henrique 👋
+# Pedro Henrique 👋
 
-### Software Engineer • Backend • AI • System Design
+### Software Engineer
 
-I enjoy building scalable software, exploring Artificial Intelligence and designing systems that solve real-world problems.
-
-Currently focused on becoming a better Software Engineer every single day.
+Building scalable systems. Exploring Artificial Intelligence. Engineering software that lasts.
 
 <br>
 
+<p>
+
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+<p align="center">
 
-I'm a Software Engineer from Brazil 🇧🇷 currently working with Java and Spring Boot.
+<a href="#-about">About</a> •
+<a href="#-engineering-philosophy">Philosophy</a> •
+<a href="#-tech-stack">Tech Stack</a> •
+<a href="#-learning-journey">Learning</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-engineering-principles">Principles</a> •
+<a href="#-github-stats">Stats</a> •
+<a href="#-roadmap">Roadmap</a> •
+<a href="#-future-projects">Future</a> •
+<a href="#-lets-connect">Contact</a>
 
-Although my professional background is backend development, my biggest interest is understanding how complex software systems are designed, scaled and evolved.
+</p>
 
-I believe that writing code is only part of engineering. Designing reliable systems, making good architectural decisions and understanding Artificial Intelligence are what truly excite me.
+---
 
-My long-term goal is to build software that positively impacts thousands—or even millions—of people.
+# 🚀 About
+
+I'm a Software Engineer from Brazil 🇧🇷.
+
+Currently working with Java and Spring Boot, building backend applications focused on reliability, maintainability and clean architecture.
+
+My passion goes beyond writing code.
+
+I enjoy understanding how software works internally, how systems scale and how great engineering decisions are made.
+
+Artificial Intelligence, distributed systems and software architecture are the fields I'm currently dedicating most of my time to.
 
 ---
 
 # 🧠 Engineering Philosophy
 
-I believe software engineering is much more than learning frameworks.
+Technology changes.
 
-Every technology eventually changes.
+Engineering principles don't.
 
-Strong engineering fundamentals remain valuable forever.
+I believe great software is built by understanding trade-offs, designing before coding and constantly improving.
 
-I enjoy learning:
+My goal isn't simply to master frameworks.
 
-- Why systems fail
-- How large-scale applications are designed
-- Trade-offs between architectural decisions
-- How AI systems work internally
-- Performance and scalability
-- Writing simple, maintainable code
+It's to become the kind of engineer capable of building systems that remain reliable, scalable and maintainable over time.
 
 ---
 
@@ -57,68 +73,51 @@ I enjoy learning:
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
-
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-![Apache Camel](https://img.shields.io/badge/ApacheCamel-D22128?style=for-the-badge&logo=apache)
-
----
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate)
+![Apache Camel](https://img.shields.io/badge/Apache_Camel-D22128?style=flat-square&logo=apache)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
 
 ### Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-# 📖 Current Learning Journey
-
-My current roadmap focuses on becoming a complete Software Engineer.
-
-### Software Engineering
-
-- Software Architecture
-- Design Patterns
-- Clean Architecture
-- Distributed Systems
-- Event-Driven Architecture
-- High Performance APIs
+# 📚 Learning Journey
 
 ### Artificial Intelligence
 
 - AI Engineering
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+- LLMs
+- RAG
 - AI Agents
-- Prompt Engineering
 - MCP
+- Prompt Engineering
 - Vector Databases
-- AI Integrations
+
+### Software Engineering
+
+- System Design
+- Software Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- Design Patterns
+- Clean Architecture
 
 ### Infrastructure
 
@@ -127,49 +126,31 @@ My current roadmap focuses on becoming a complete Software Engineer.
 - AWS
 - CI/CD
 
-### System Design
-
-- Scalability
-- Load Balancing
-- Caching
-- Databases
-- Messaging Systems
-- CAP Theorem
-- Distributed Systems
-
 ---
 
 # 🚀 Featured Projects
 
-## Backend APIs
+### Backend APIs
 
-Production-style backend applications using Java and Spring Boot.
+Production-oriented backend applications built with Java and Spring Boot.
 
-✔ REST APIs
-
-✔ Authentication
-
-✔ Validation
-
-✔ PostgreSQL
-
-✔ Docker
+> Coming soon...
 
 ---
 
-## AI Experiments
+### AI Engineering
 
-Personal projects exploring AI, LLMs and intelligent systems.
+Projects exploring LLMs, RAG, AI Agents and intelligent systems.
 
-Coming soon...
+> Coming soon...
 
 ---
 
-## Software Engineering Labs
+### Architecture Labs
 
-Projects created to study architecture, distributed systems and software design.
+Experiments focused on distributed systems, scalability and software architecture.
 
-Coming soon...
+> Coming soon...
 
 ---
 
@@ -179,13 +160,13 @@ Coming soon...
 
 ✔ Readability over cleverness
 
-✔ Automation whenever possible
+✔ Design before implementation
 
 ✔ Continuous learning
 
-✔ Design before implementation
-
 ✔ Build for maintainability
+
+✔ Automate repetitive work
 
 ✔ Understand the "why", not only the "how"
 
@@ -203,65 +184,59 @@ Coming soon...
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 Roadmap
 
-## Backend Engineering
+## Software Engineering
 
-- [ ] Build production-ready microservices
-- [ ] Master Spring Ecosystem
-- [ ] Improve distributed systems knowledge
+- [ ] Master Software Architecture
+- [ ] Master System Design
+- [ ] Build production-ready distributed systems
+- [ ] Contribute to Open Source
 
 ## Artificial Intelligence
 
 - [ ] Master AI Engineering
 - [ ] Build AI-powered applications
-- [ ] Learn LLM Architecture
-- [ ] Build AI Agents
-- [ ] Study MCP deeply
+- [ ] Build production-ready AI Agents
+- [ ] Master Retrieval-Augmented Generation (RAG)
+- [ ] Explore multimodal AI
 
 ## Cloud
 
 - [ ] AWS
 - [ ] Kubernetes
 - [ ] Terraform
-
-## Software Engineering
-
-- [ ] Master System Design
-- [ ] Contribute to Open Source
-- [ ] Build an engineering portfolio
-- [ ] Work internationally
+- [ ] CI/CD Pipelines
 
 ---
 
 # 📂 Future Projects
 
-Projects I'm planning to build.
-
 - AI Agent Platform
 - RAG Knowledge Base
-- Distributed URL Shortener
 - Event-Driven E-commerce
+- URL Shortener at Scale
+- Distributed Chat
+- Redis Playground
 - Kubernetes Lab
-- Redis Cache Playground
-- System Design Playground
+- AI Assistant API
 
 ---
 
 # 📫 Let's Connect
 
-Feel free to reach out if you'd like to discuss software engineering, backend development, AI or system design.
+If you're interested in backend engineering, AI or software architecture, feel free to reach out.
 
 📧 **SEU_EMAIL**
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 ---
 
 <div align="center">
 
-> "Great software is built on great engineering."
+> *"Great software is built by engineers who never stop learning."*
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
 </div>
