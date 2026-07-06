@@ -183,24 +183,6 @@ insights.
 
  <br/>
 
- <h2 id="stats">atlas/stats</h2>
-
- <p align="center">
-   <img
-src="https://github-readme-stats.vercel.app/api?username=Phsouzaro&show_icons=true&theme=
-github_dark&hide_border=true" height="170" alt="GitHub Stats" />
-   &nbsp;&nbsp;
-   <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsouzaro&layout=comp
-act&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
- </p>
-
- <br/>
-
- ---
-
- <br/>
-
  <h2 id="roadmap">atlas/roadmap</h2>
 
  ```bash
@@ -237,34 +219,18 @@ act&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
    github:    "https://github.com/Phsouzaro"
  ```
 
- <p align="left">
-   <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/"
-target="_blank">
-     <img
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoC
-olor=white" alt="LinkedIn"/>
-   </a>
-   &nbsp;
-   <a href="mailto:phsouzaro@gmail.com">
-     <img
-src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=w
-hite" alt="Email"/>
-  </a>
-</p>
-
 <br/>
 
 ---
 
 <div align="center">
 
-```text
 Project Atlas
-
+</br>
 Engineering in progress...
-
+</br>
 v1.6
-```
+</br>
 
 > Great software is built by engineers who never stop learning.
 
