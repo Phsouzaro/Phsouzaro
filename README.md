@@ -12,13 +12,10 @@ Building scalable systems. Exploring intelligent software. Engineering in progre
 
 <br/>
 
-<a href="#about">About</a> ·
-<a href="#focus">Focus</a> ·
-<a href="#stack">Stack</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#notes">Notes</a> ·
-<a href="#roadmap">Roadmap</a> ·
-<a href="#contact">Contact</a>
+[`📂 About`](#about) &nbsp;·&nbsp; [`🎯 Focus`](#focus) &nbsp;·&nbsp; [`🛠️
+Stack`](#stack) &nbsp;·&nbsp; [`🚀 Projects`](#projects) &nbsp;·&nbsp; [`📝
+Notes`](#notes) &nbsp;·&nbsp; [`🗺️ Roadmap`](#roadmap) &nbsp;·&nbsp; [`📞
+Contact`](#contact)
 
 </div>
 
@@ -35,16 +32,25 @@ Building scalable systems. Exploring intelligent software. Engineering in progre
 <h2 id="about">atlas/about</h2>
 
 ```bash
-pedro@atlas:~$ whoami
+pedro@atlas:~$ curl -s https://api.github.com/users/phsouzaro
+```
+```json
+{
+  "name": "Pedro Henrique",
+  "location": "Brazil 🇧🇷",
+  "role": "Software Engineer",
+  "specialties": ["Backend", "AI", "System Design"],
+  "focus": "Java & Spring Boot ecosystem"
+}
 ```
 
-I'm a Software Engineer from Brazil 🇧🇷, currently building backend systems with **Java** and **Spring Boot**.
+I'm a Software Engineer from Brazil 🇧🇷, currently building high-performance backend
+systems with **Java** and **Spring Boot**.
 
-I'm driven by curiosity and by the desire to understand how complex software works internally.
+I am driven by deep curiosity and a passion for understanding how complex software works
+internally.
 
-My main interests are **software architecture**, **distributed systems**, **Artificial Intelligence** and **System Design**.
-
-Every repository here is part of my long-term engineering journey.
+Every repository here is a building block in my long-term engineering journey.
 
 </td>
 
@@ -53,16 +59,17 @@ Every repository here is part of my long-term engineering journey.
 <h2 id="focus">atlas/focus</h2>
 
 ```bash
-pedro@atlas:~/focus$ ls
+pedro@atlas:~$ ls -la ~/focus
 ```
 
 ```text
-system-design/
-artificial-intelligence/
-distributed-systems/
-software-architecture/
-cloud/
-production-backend/
+total 24
+drwxr-xr-x  pedro  staff   system-design/
+drwxr-xr-x  pedro  staff   artificial-intelligence/
+drwxr-xr-x  pedro  staff   distributed-systems/
+drwxr-xr-x  pedro  staff   software-architecture/
+drwxr-xr-x  pedro  staff   cloud-infrastructure/
+drwxr-xr-x  pedro  staff   production-backend/
 ```
 
 </td>
@@ -79,64 +86,50 @@ production-backend/
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### Core
+### ⚙️ Core & Backend
 
-- Java
-- Spring Boot
-- SQL
-- Docker
-- Git
+- **Languages:** Java (17/21), SQL, Bash
+- **Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, Apache Camel
+- **APIs & Integration:** RESTful APIs, Integration Patterns, Message Queues
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### Backend
+### 🗄️ Infrastructure & Exploring
 
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- Apache Camel
-- REST APIs
-
-</td>
-
-<td width="25%" valign="top">
-
-### Database
-
-- PostgreSQL
-- MySQL
-- Relational Modeling
-- Transactions
-- Query Optimization
-
-</td>
-
-<td width="25%" valign="top">
-
-### Exploring
-
-- AWS
-- Kubernetes
-- AI Engineering
-- LLMs
-- RAG
+- **Databases:** PostgreSQL, MySQL, Relational Modeling, Query Optimization
+- **DevOps & Tooling:** Docker, Git, Linux
+- **AI Engineering:** LLMs, RAG (Retrieval-Augmented Generation), Vector Databases
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img
+src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=wh
+ite"/>
+  <img
+src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&lo
+goColor=white"/>
+  <img
+src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&log
+oColor=white"/>
+  <img
+src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=w
+hite"/>
+  <img
+src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/
+>
+  <img
+src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=w
+hite"/>
+  <img
+src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&log
+oColor=white"/>
 </p>
 
 <br/>
@@ -151,25 +144,25 @@ production-backend/
 <tr>
 <td width="50%" valign="top">
 
-### backend-labs
+### 🧪 [backend-labs](https://github.com/Phsouzaro/backend-labs)
+> Production-ready backend applications built with Java & Spring Boot.
 
-Production-ready backend applications built with Java and Spring Boot.
-
-**Focus:** APIs, authentication, databases, tests, Docker and clean architecture.
-
-_Status: under development._
+- 🎯 **Focus:** Secure REST APIs, OAuth2, Database migrations, Unit/Integration tests,
+Clean Architecture.
+- 🛠️ **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Docker`
+- 📈 **Status:** _Under active development_
 
 </td>
 
 <td width="50%" valign="top">
 
-### ai-lab
+### 🤖 [ai-lab](https://github.com/Phsouzaro/ai-lab)
+> Hands-on engineering with Artificial Intelligence and LLMs.
 
-Experiments with Artificial Intelligence, LLMs, RAG, embeddings and AI Agents.
-
-**Focus:** practical AI engineering and intelligent applications.
-
-_Status: under development._
+- 🎯 **Focus:** Practical AI agent orchestration, Retrieval-Augmented Generation (RAG),
+and vector embeddings.
+- 🛠️ **Stack:** `Python` `LangChain` `VectorDB` `LLMs` `RAG`
+- 📈 **Status:** _Under active development_
 
 </td>
 </tr>
@@ -177,25 +170,25 @@ _Status: under development._
 <tr>
 <td width="50%" valign="top">
 
-### system-design-lab
+### 🏛️ [system-design-lab](https://github.com/Phsouzaro/system-design-lab)
+> Architectural studies, scalability, and distributed patterns.
 
-Architecture studies, scalability experiments and distributed systems.
-
-**Focus:** trade-offs, diagrams, patterns and real-world system design.
-
-_Status: under development._
+- 🎯 **Focus:** High-availability architectures, messaging trade-offs, caching patterns,
+and visual diagrams.
+- 🛠️ **Stack:** `Distributed Systems` `System Design` `Software Architecture`
+- 📈 **Status:** _Under active development_
 
 </td>
 
 <td width="50%" valign="top">
 
-### engineering-notes
+### 📝 [engineering-notes](https://github.com/Phsouzaro/engineering-notes)
+> A curated, public knowledge base of computer science & engineering.
 
-My public knowledge base about software engineering.
-
-**Focus:** notes, diagrams, fundamentals and long-term learning.
-
-_Status: under development._
+- 🎯 **Focus:** Structured study notes, deep dives, patterns, and long-term tech stack
+insights.
+- 🛠️ **Stack:** `Markdown` `Obsidian` `Architecture Notes`
+- 📈 **Status:** _Under active development_
 
 </td>
 </tr>
@@ -210,20 +203,21 @@ _Status: under development._
 <h2 id="notes">atlas/notes</h2>
 
 ```bash
-pedro@atlas:~/engineering-notes$ tree
+pedro@atlas:~$ tree ~/engineering-notes --dirsfirst
 ```
 
 ```text
-engineering-notes
+engineering-notes/
+├── 🤖 artificial-intelligence/
+├── ⚙️ backend-engineering/
+├── 🧼 clean-code/
+├── ☁️ cloud/
+├── 🗄️ databases/
+├── 🌐 distributed-systems/
+├── 🏛️ software-architecture/
+└── 📐 system-design/
 
-├── artificial-intelligence
-├── backend-engineering
-├── cloud
-├── clean-code
-├── databases
-├── distributed-systems
-├── software-architecture
-└── system-design
+8 directories, 0 files
 ```
 
 <br/>
@@ -236,9 +230,12 @@ engineering-notes
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phsouzaro&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsouzaro&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="175"
+src="https://github-readme-stats.vercel.app/api?username=Phsouzaro&show_icons=true&theme=
+github_dark&hide_border=true&border_radius=10"/>
+<img height="175"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phsouzaro&layout=comp
+act&theme=github_dark&hide_border=true&border_radius=10"/>
 
 </div>
 
@@ -250,58 +247,26 @@ engineering-notes
 
 <h2 id="roadmap">atlas/roadmap</h2>
 
-<table>
-<tr>
-<td width="20%" align="center">
+```bash
+pedro@atlas:~$ atlas --roadmap
+```
 
-### Now
+```text
+[●] PHASE 1: Current Focus & Building 🚀
+    ├── Mastering production-ready Backend Systems (Java/Spring Boot)
+    ├── High-Throughput APIs, security configurations, and advanced SQL tuning
+    └── AI Engineering fundamentals (RAG integrations, agentic workflows)
 
-Backend Engineering  
-System Design  
-AI Fundamentals
+[○] PHASE 2: Tactical Expansion 🗺️
+    ├── Deepening knowledge in Distributed Systems & Event-Driven architectures
+    ├── Exploring Cloud solutions and container orchestration (AWS, Kubernetes)
+    └── Advanced Software Architecture patterns (CQRS, Event Sourcing)
 
-</td>
-
-<td width="20%" align="center">
-
-### Next
-
-Distributed Systems  
-Cloud  
-Architecture Labs
-
-</td>
-
-<td width="20%" align="center">
-
-### Building
-
-AI Agents  
-RAG Apps  
-Production APIs
-
-</td>
-
-<td width="20%" align="center">
-
-### Future
-
-Kubernetes  
-AWS  
-Open Source
-
-</td>
-
-<td width="20%" align="center">
-
-### Goal
-
-International  
-Software Engineer
-
-</td>
-</tr>
-</table>
+[○] PHASE 3: Long-term Horizon & Goal 🎯
+    ├── Production deployment of AI-augmented cloud architectures
+    ├── Scalable open-source contributions
+    └── Goal: Global Impact as an International Software Engineer 🌐
+```
 
 <br/>
 
@@ -312,16 +277,27 @@ Software Engineer
 <h2 id="contact">atlas/contact</h2>
 
 ```bash
-pedro@atlas:~/contact$ open connections
+pedro@atlas:~$ cat ~/.contact_info
 ```
 
-<p>
-  <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
+```yaml
+contact:
+  email:     "phsouzaro@gmail.com"
+  linkedin:  "https://linkedin.com/in/pedro-henrique-souza-6b257616b"
+  github:    "https://github.com/Phsouzaro"
+```
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/" target="_blank">
+    <img
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoC
+olor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="mailto:phsouzaro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img
+src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=w
+hite" alt="Email"/>
   </a>
 </p>
 
@@ -336,7 +312,7 @@ Project Atlas
 
 Engineering in progress...
 
-v1.5
+v1.6
 ```
 
 > Great software is built by engineers who never stop learning.
