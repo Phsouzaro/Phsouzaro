@@ -6,54 +6,50 @@
 
 ### Software Engineer
 
-Backend Engineering • Artificial Intelligence • System Design
-
-Building scalable systems. Exploring intelligent solutions. Engineering software that lasts.
+Building scalable systems. Exploring Artificial Intelligence.
 
 </div>
 
 ---
 
 <p align="center">
-  <a href="#about">About</a> •
-  <a href="#current-focus">Current Focus</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#engineering-notes">Engineering Notes</a> •
-  <a href="#github-stats">Stats</a> •
-  <a href="#roadmap">Roadmap</a> •
-  <a href="#contact">Contact</a>
+  <a href="#atlasabout">atlas/about</a> •
+  <a href="#atlasfocus">atlas/focus</a> •
+  <a href="#atlasstack">atlas/stack</a> •
+  <a href="#atlasprojects">atlas/projects</a> •
+  <a href="#atlasnotes">atlas/notes</a> •
+  <a href="#atlasstats">atlas/stats</a> •
+  <a href="#atlasroadmap">atlas/roadmap</a> •
+  <a href="#atlascontact">atlas/contact</a>
 </p>
 
 ---
 
-## About
+## atlas/about
 
-I'm a Software Engineer from Brazil 🇧🇷.
+I'm a Software Engineer from Brazil 🇧🇷, currently building backend applications with **Java** and **Spring Boot**.
 
-Currently working with **Java** and **Spring Boot**, building backend applications focused on reliability, scalability and maintainability.
+I'm driven by curiosity. I enjoy understanding how complex systems work, studying software architecture, and exploring how Artificial Intelligence can be applied to solve real-world problems.
 
-My interests go beyond frameworks.  
-I'm passionate about understanding how software works internally, how systems scale, and how Artificial Intelligence can be integrated into real-world applications.
-
-Always learning.  
-Always building.
+My goal is to become an engineer capable of designing software that is reliable, scalable and built to last.
 
 ---
 
-## Current Focus
+## atlas/focus
 
 ```bash
-> Mastering System Design
-> Exploring Artificial Intelligence
-> Building production-ready backend systems
-> Studying distributed systems
-> Improving software architecture skills
+pedro@atlas:~/focus$ ls
+
+system-design/
+artificial-intelligence/
+distributed-systems/
+software-architecture/
+production-backend/
 ```
 
 ---
 
-## Tech Stack
+## atlas/stack
 
 ### Core
 
@@ -87,7 +83,7 @@ Always building.
 
 ---
 
-## Projects
+## atlas/projects
 
 ### Backend APIs
 
@@ -109,27 +105,25 @@ Architecture studies, scalability experiments and distributed systems examples.
 
 ---
 
-## Engineering Notes
-
-This section will become my public knowledge base about software engineering.
-
-Planned topics:
+## atlas/notes
 
 ```bash
+pedro@atlas:~/engineering-notes$ tree
+
 engineering-notes/
-├── artificial-intelligence
-├── system-design
-├── distributed-systems
-├── backend-engineering
-├── databases
-├── cloud
-├── software-architecture
-└── clean-code
+├── artificial-intelligence/
+├── system-design/
+├── distributed-systems/
+├── backend-engineering/
+├── databases/
+├── cloud/
+├── software-architecture/
+└── clean-code/
 ```
 
 ---
 
-## GitHub Stats
+## atlas/stats
 
 <div align="center">
 
@@ -141,41 +135,23 @@ engineering-notes/
 
 ---
 
-## Roadmap
+## atlas/roadmap
 
-### Software Engineering
-
-- [ ] Master System Design
-- [ ] Deepen Software Architecture knowledge
-- [ ] Build production-ready distributed systems
-- [ ] Improve backend engineering fundamentals
-
-### Artificial Intelligence
-
-- [ ] Study AI Engineering deeply
-- [ ] Build AI-powered applications
-- [ ] Explore LLMs, RAG and AI Agents
-- [ ] Create practical AI projects
-
-### Cloud & Infrastructure
-
-- [ ] Learn AWS
-- [ ] Learn Kubernetes
-- [ ] Improve CI/CD knowledge
-- [ ] Study observability and monitoring
-
-### Career
-
-- [ ] Build a strong engineering portfolio
-- [ ] Contribute to Open Source
-- [ ] Work internationally as a Software Engineer
+```bash
+now
+ └── backend engineering
+      └── artificial intelligence
+           └── cloud infrastructure
+                └── distributed systems
+                     └── international software engineer
+ ```
 
 ---
 
-## Contact
+## atlas/contact
 
 <p align="left">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -190,6 +166,6 @@ engineering-notes/
 
 > Great software is built by engineers who never stop learning.
 
-**Project Atlas v1.0**
+**Atlas Workspace v1.0**
 
 </div>
