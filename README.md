@@ -1,227 +1,111 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Pedro Henrique - Software Engineer" width="100%"/>
+  <img src="./assets/banner.png" alt="Pedro Henrique | Backend Software Engineer" width="100%" />
 </p>
 
-[`📂 About`](#about) &nbsp;·&nbsp; [`🎯 Focus`](#focus) &nbsp;·&nbsp; [`🛠️
-Stack`](#stack) &nbsp;·&nbsp; [`🚀 Projects`](#projects) &nbsp;·&nbsp; [`📝
-Notes`](#notes) &nbsp;·&nbsp; [`🗺️ Roadmap`](#roadmap) &nbsp;·&nbsp; [`📞
-Contact`](#contact)
+<h1 align="center">Hi, I'm Pedro Henrique 👋</h1>
 
- </div>
+<p align="center">
+  <strong>Backend Software Engineer · Java & Spring Boot · System Design · AI Integrations</strong><br/>
+  Based in Brazil 🇧🇷 · Open to international remote opportunities
+</p>
 
- <br/>
-
- ---
-
- <br/>
-
- <table>
- <tr>
- <td width="55%" valign="top">
-
- <h2 id="about">atlas/about</h2>
-
- ```bash
- pedro@atlas:~$ curl -s https://api.github.com/users/phsouzaro
- {
-   "name": "Pedro Henrique",
-   "location": "Brazil 🇧🇷",
-   "role": "Software Engineer",
-   "specialties": ["Backend", "AI", "System Design"],
-   "focus": "Software Engineering"
- }
- ```
-
- I'm a Software Engineer from Brazil 🇧🇷, currently building high-performance backend
-systems with **Java** and **Spring Boot**.
-
- I am driven by deep curiosity and a passion for understanding how complex software
-works internally.
-
- Every repository here is a building block in my long-term engineering journey.
-
- </td>
-
- <td width="45%" valign="top">
-
- <h2 id="focus">atlas/focus</h2>
-
- ```bash
- pedro@atlas:~$ ls -la ~/focus
- total 24
- drwxr-xr-x  pedro  staff   system-design/
- drwxr-xr-x  pedro  staff   artificial-intelligence/
- drwxr-xr-x  pedro  staff   distributed-systems/
- drwxr-xr-x  pedro  staff   software-architecture/
- drwxr-xr-x  pedro  staff   cloud-infrastructure/
- drwxr-xr-x  pedro  staff   production-backend/
- ```
-
- </td>
- </tr>
- </table>
-
- <br/>
-
- ---
-
- <br/>
-
- <h2 id="stack">atlas/stack</h2>
-
- ```bash
- pedro@atlas:~$ atlas --stack
- ┌─────────────────┬────────────────────────────────────────────────────┐
- │ CATEGORY        │ TECHNOLOGIES & TOOLS                               │
- ├─────────────────┼────────────────────────────────────────────────────┤
- │ Core & Backend  │ Java (17/21) • Spring Boot • Spring Security       │
- │ Integrations    │ Spring Data JPA • Hibernate • Apache Camel • REST  │
- │ Databases       │ PostgreSQL • MySQL • Relational Design • Tuning    │
- │ Infrastructure  │ Docker • Git • Linux • AWS • Kubernetes            │
- │ AI Engineering  │ LLMs • RAG (Retrieval) • AI Agents • VectorDBs     │
- └─────────────────┴────────────────────────────────────────────────────┘
- ```
-
- <br/>
-
- ---
-
- <br/>
-
- <h2 id="projects">atlas/projects</h2>
-
- <table>
- <tr>
- <td width="50%" valign="top">
-
- ### 🧪 [backend-labs](https://github.com/Phsouzaro/backend-labs)
- > Planning backend applications built with Java & Spring Boot.
-
- - 🎯 **Focus:** Secure REST APIs, OAuth2, Database migrations, Unit/Integration tests,
-Clean Architecture.
- - 🛠️ **Stack:** `Java` `Spring Boot` `Spring Security` `PostgreSQL` `Docker`
- - 📈 **Status:** _Under active development_
-
- </td>
-
- <td width="50%" valign="top">
-
- ### 🤖 [ai-lab](https://github.com/Phsouzaro/ai-lab)
- > Hands-on engineering with Artificial Intelligence and LLMs.
-
- - 🎯 **Focus:** Practical AI agent orchestration, Retrieval-Augmented Generation (RAG),
-and vector embeddings.
- - 🛠️ **Stack:** `Python` `LangChain` `VectorDB` `LLMs` `RAG`
- - 📈 **Status:** _Under active development_
-
- </td>
- </tr>
-
- <tr>
- <td width="50%" valign="top">
-
- ### 🏛️ [system-design-lab](https://github.com/Phsouzaro/system-design-lab)
- > Architectural studies, scalability, and distributed patterns.
-
- - 🎯 **Focus:** High-availability architectures, messaging trade-offs, caching
-patterns, and visual diagrams.
- - 🛠️ **Stack:** `Distributed Systems` `System Design` `Software Architecture`
- - 📈 **Status:** _Under active development_
-
- </td>
-
- <td width="50%" valign="top">
-
- ### 📝 [engineering-notes](https://github.com/Phsouzaro/engineering-notes)
- > A curated, public knowledge base of computer science & engineering.
-
- - 🎯 **Focus:** Structured study notes, deep dives, patterns, and long-term tech stack
-insights.
- - 🛠️ **Stack:** `Markdown` `Obsidian` `Architecture Notes`
- - 📈 **Status:** _Under active development_
-
- </td>
- </tr>
- </table>
-
- <br/>
-
- ---
-
- <br/>
-
- <h2 id="notes">atlas/notes</h2>
-
- ```bash
- pedro@atlas:~$ tree ~/engineering-notes --dirsfirst
- engineering-notes/
- ├── 🤖 artificial-intelligence/
- ├── ⚙️ backend-engineering/
- ├── 🧼 clean-code/
- ├── ☁️ cloud/
- ├── 🗄️ databases/
- ├── 🌐 distributed-systems/
- ├── 🏛️ software-architecture/
- └── 📐 system-design/
-
- 8 directories, 0 files
- ```
-
- <br/>
-
- ---
-
- <br/>
-
- <h2 id="roadmap">atlas/roadmap</h2>
-
- ```bash
- pedro@atlas:~$ atlas --roadmap
- [●] SPRINT 1: Current Focus & Building 🚀
-     ├── Mastering production-ready Backend Systems (Java/Spring Boot)
-     ├── High-Throughput APIs, security configurations, and SQL tuning
-     └── AI Engineering fundamentals (RAG integrations, agentic workflows)
-
- [○] SPRINT 2: Tactical Expansion 🗺️
-     ├── Deepening knowledge in Distributed Systems & Event-Driven architectures
-     ├── Exploring Cloud solutions and container orchestration (AWS, Kubernetes)
-     └── Advanced Software Architecture patterns (CQRS, Event Sourcing)
-
- [○] SPRINT 3: Long-term Horizon & Goal 🎯
-     ├── Production deployment of AI-augmented cloud architectures
-     ├── Scalable open-source contributions
-     └── Goal: Global Impact as an International Software Engineer 🌐
- ```
-
- <br/>
-
- ---
-
- <br/>
-
- <h2 id="contact">atlas/contact</h2>
-
- ```bash
- pedro@atlas:~$ cat ~/.contact_info
- contact:
-   email:     "phsouzaro@gmail.com"
-   linkedin:  "https://linkedin.com/in/pedro-henrique-souza-6b257616b"
-   github:    "https://github.com/Phsouzaro"
- ```
-
-<br/>
+<p align="center">
+  <a href="https://phsouzaro.github.io/portfolio/"><img src="https://img.shields.io/badge/Explore_my_Portfolio-54E5A3?style=for-the-badge&logo=googlechrome&logoColor=08121B" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-souza-6b257616b"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:phsouzaro@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-263746?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-<div align="center">
+### `pedro@github:~$ whoami`
 
-Project Atlas
-</br>
-Engineering in progress...
-</br>
-v1.6
-</br>
+I'm a **Backend Software Engineer with 5 years of experience**, focused on **Java, Spring Boot, APIs, integrations, and software architecture**.
 
-> Great software is built by engineers who never stop learning.
+I enjoy translating complex business rules into reliable, maintainable systems. My recent work explores **AI-assisted applications**, modular design, security, and transactional consistency.
 
-</div>
+**→ [Visit my portfolio](https://phsouzaro.github.io/portfolio/)** for a guided overview of my projects and engineering approach.
+
+### `pedro@github:~$ ls ./featured-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ✈️ [Atlas Flight Booking Service](https://github.com/Phsouzaro/atlas-flight-booking-service)
+
+**Java Backend · AI Engineering · Software Architecture**
+
+A flight booking platform with an AI assistant for searching flights and preparing bookings, cancellations, and rebookings. Sensitive operations require **explicit user confirmation** and server-side validation.
+
+**Highlights:** Spring Modulith, Spring AI, RAG, pgvector, idempotency, concurrency control, JWT, Testcontainers, CI/CD.
+
+**Stack:** `Java 21` `Spring Boot` `Angular` `PostgreSQL` `Docker`
+
+**[▶ Live browser demo](https://phsouzaro.github.io/atlas-flight-booking-service/)** · **[Source code](https://github.com/Phsouzaro/atlas-flight-booking-service)**
+
+*Demo note: the publicly hosted version uses a simulated backend and scripted assistant. The full application uses Spring Boot and OpenAI.*
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏋️ [Overload](https://github.com/Phsouzaro/overload_app)
+
+**Product Engineering · Mobile Development**
+
+A workout tracking application with training sessions, exercise history, personal records, progress analytics, and local data persistence.
+
+**Highlights:** Workout management, PR detection, analytics, data export, and a layered app structure.
+
+**Stack:** `Flutter` `Dart` `Riverpod` `SQLite`
+
+**[Source code](https://github.com/Phsouzaro/overload_app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏛️ [Software Architecture Notes](https://github.com/Phsouzaro/mba-arquitetura-fullcycle)
+
+**Architecture · System Design · Continuous Learning**
+
+Structured notes and technical studies on solution architecture, domain understanding, trade-offs, and architectural decisions.
+
+**[Explore notes](https://github.com/Phsouzaro/mba-arquitetura-fullcycle)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 [Personal Portfolio](https://github.com/Phsouzaro/portfolio)
+
+**Web Engineering · Personal Site**
+
+My bilingual, terminal-inspired engineering portfolio, built with Angular and designed to showcase practical work.
+
+**Stack:** `Angular` `TypeScript` `CSS`
+
+**[▶ Portfolio website](https://phsouzaro.github.io/portfolio/)** · **[Source code](https://github.com/Phsouzaro/portfolio)**
+
+</td>
+</tr>
+</table>
+
+### `pedro@github:~$ cat ./toolkit`
+
+| Area | Technologies and practices |
+| --- | --- |
+| **Backend** | Java, Spring Boot, Spring Security, REST APIs, JPA / Hibernate |
+| **Architecture** | Modular Monoliths, Spring Modulith, System Design, ADRs |
+| **Data & Integration** | PostgreSQL, MySQL, Apache Camel, Flyway |
+| **AI Engineering** | Spring AI, LLM Tool Calling, RAG, pgvector |
+| **Delivery & Quality** | Docker, GitHub Actions, Testcontainers, Integration Testing, Observability |
+
+### `pedro@github:~$ cat ./contact`
+
+- 🌐 **Portfolio:** [phsouzaro.github.io/portfolio](https://phsouzaro.github.io/portfolio/)
+- 💼 **LinkedIn:** [Pedro Henrique Souza](https://www.linkedin.com/in/pedro-henrique-souza-6b257616b)
+- ✉️ **Email:** [phsouzaro@gmail.com](mailto:phsouzaro@gmail.com)
+
+---
+
+<p align="center"><sub>Build thoughtfully. Ship reliably. Keep learning.</sub></p>
